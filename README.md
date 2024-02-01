@@ -15,7 +15,7 @@
 - **Other:** Git, RESTful APIs
 
 ## 📫 Let's Connect
-- LinkedIn: [Prabin Upreti](https://www.linkedin.com/in/prabinupreti/)
+- LinkedIn: [Prabin Upreti](https://www.linkedin.com/in/prabinrajupreti/)
 - [Website](https://prabinrajupreti.com.np)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration opportunities. Happy coding! 🚀

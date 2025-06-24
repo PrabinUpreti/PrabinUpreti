@@ -1,6 +1,6 @@
 # Hi there, I'm Prabin Upreti! 👋
 
-[![Coding Time](https://wakatime.com/badge/user/0909edbf-7706-45ed-bf9e-d8a2f4a21f28.svg)](https://wakatime.com/@0909edbf-7706-45ed-bf9e-d8a2f4a21f28)
+[![wakatime](https://wakatime.com/badge/user/0909edbf-7706-45ed-bf9e-d8a2f4a21f28.svg)](https://wakatime.com/@0909edbf-7706-45ed-bf9e-d8a2f4a21f28)
 
 🚀 As a passionate and dynamic full-stack web developer, I bring one year of proven experience in crafting robust applications using Node.js and its frameworks, including Angular and Laravel. Proficient in working with databases such as MySQL, MongoDB, and Firebase, I thrive in the fast-paced tech landscape.
 

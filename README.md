@@ -1,113 +1,111 @@
-# 👋 Hi, I'm Prabin Raj Upreti
+# 👋 Hello, I’m Prabin Raj Upreti
 
-**Full-Stack Web & Mobile Developer | MERN/NEXT.js | AWS & DevOps | System Design Enthusiast**
+**Full-Stack Web & Mobile Developer | MERN / NEXT.js | DevOps | AWS Cloud | Secure API Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/-PrabinRajUpreti-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabinrajupreti)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PrabinUpreti)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox-browser&logoColor=white)](https://prabinrajupreti.com.np)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:upretirajprabin@gmail.com)
-[![Demo Video](https://img.shields.io/badge/-Demo%20Video-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/Lgh4POoUa2E)
-[![WakaTime](https://wakatime.com/badge/user/0909edbf-7706-45ed-bf9e-d8a2f4a21f28.svg)](https://wakatime.com/@0909edbf-7706-45ed-bf9e-d8a2f4a21f28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabinrajupreti)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrabinUpreti)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://prabinrajupreti.com.np)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upretirajprabin@gmail.com)
+[![YouTube](https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Lgh4POoUa2E)
+[![Coding Time](https://wakatime.com/badge/user/0909edbf-7706-45ed-bf9e-d8a2f4a21f28.svg)](https://wakatime.com/@0909edbf-7706-45ed-bf9e-d8a2f4a21f28)
 
-![Wakatime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=prabinrajupreti&layout=compact&hide=other)
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I’m a full-stack developer focused on building **secure, scalable, and modern web & mobile applications**.
+I’m a full-stack developer dedicated to building **secure**, **scalable**, and **cross-platform** digital products that solve real-world problems.
 
-Currently, I work at a **logistics company** where I:
-
-- 🏗️ Architect backend systems with **Node.js, Express.js**, and **MongoDB**
-- 🧩 Design and optimize databases for **inventories, vendors, CMS**, and dispatch modules
-- 🌐 Build high-performance frontends using **Next.js**, **React**, **Redux**, and **TypeScript**
-- ☁️ Manage cloud infrastructure with **AWS (S3, EC2, SES, Route 53)** and apply **DevOps** practices
-- 🔐 Implement **RBAC, ABAC, PBAC** for multi-level secure access control systems
-- 📦 Document and test APIs using **Postman**, **Swagger/OpenAPI**, and automated scripts
-
-On the side, I lead a small team to build **SaaS solutions**, focusing on:
-
-- 🔁 Cross-platform mobile apps using **React Native**
-- 🛠️ High-permission enterprise apps with secure role and attribute-based access
-- 🧱 Full-stack systems using clean architecture and microservices principles
-
-🎯 **My learning roadmap:**
-> Backend engineering → System design → System architecture → Data engineering → Data analytics → Data science
+💻 I specialize in:
+- Architecting and scaling backend systems with **Node.js**, **Express**, and **MongoDB**
+- Developing **responsive web interfaces** with **React**, **Next.js**, and **TailwindCSS**
+- Crafting **mobile apps** with **React Native**
+- Implementing **secure access systems** (RBAC, ABAC, PBAC)
+- Optimizing DevOps flow with **Docker**, **AWS**, and **CI/CD pipelines**
+- Designing **API documentation** and integration tools with **Postman**, **Swagger**, and more
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
-![Shadcn](https://img.shields.io/badge/-Shadcn_UI-gray)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=black)
+### 🚀 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-### 🔧 Backend & DevOps
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![PM2](https://img.shields.io/badge/-PM2-2B037A)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
-![JWT](https://img.shields.io/badge/-JWT-black)
+### 🗄️ Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005E87?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
-
-### 🧰 Tools & Utilities
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)
+### 🧰 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 📜 Certifications
+## 📊 Dev Dashboard
 
-- 📊 **AWS AI/ML** (2022) – Genese Cloud Academy  
-- 🧩 **MongoDB for SQL Pros – M100** (2022)  
-- 🔐 **Programming Foundations: Web Security** (2022)  
-- 📚 **MongoDB Basics – M001** (2021)  
-- ⚙️ **JavaScript Algorithms And Data Structures** (2021)  
-- 🎨 **UI/UX Design** – Coursera (2020)  
-- 🛠️ **LinkedIn Skill Badges** – HTML, CSS, JavaScript, Node.js  
+### 🕒 WakaTime Coding Activity
+
+<!-- Replace these with actual share links from your WakaTime account -->
+![Wakatime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=prabinrajupreti&layout=compact&hide=other)
 
 ---
 
-## 🌟 Featured Projects
+### 📈 GitHub Activity
 
-- 🚚 [Aerorides - Fleet System](http://aeroride.infy.uk)  
-- 📦 [IMS - Inventory Management](https://ims.dataconstruct.com.np)  
-- 🧘 [Mantra Mountain](https://www.mantramountain.com)  
-- 💼 [Personal Portfolio](https://prabinrajupreti.com.np)  
-- 🧾 [CRM System (GitHub)](https://github.com/PrabinUpreti/crm)  
-- 🗃️ [Records Manager (GitHub)](https://github.com/PrabinUpreti/records)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrabinUpreti&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabinUpreti&layout=compact&theme=tokyonight)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrabinUpreti&theme=tokyonight) -->
 
 ---
 
-## 📈 GitHub Activity
+## 🧭 Roadmap
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabinUpreti&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabinUpreti&layout=compact&theme=radical)
+🔹 **Now Learning:**
+- Deep dive into backend patterns and access control
+- Advanced DevOps & serverless deployments
+- Next.js 15 features: RSC, caching, streaming
 
----
-
-## 📬 Let's Connect
-
-📧 **Email**: [upretirajprabin@gmail.com](mailto:upretirajprabin@gmail.com)  
-🌐 **Portfolio**: [prabinrajupreti.com.np](https://prabinrajupreti.com.np)  
-💼 **LinkedIn**: [linkedin.com/in/prabinrajupreti](https://linkedin.com/in/prabinrajupreti)  
-📁 **GitHub**: [github.com/PrabinUpreti](https://github.com/PrabinUpreti)
+🔮 **Next Phase:**
+- System design at scale (DDD, event-driven architecture)
+- Data engineering (ETL, pipelines, warehousing)
+- Analytics and machine learning integrations
 
 ---
 
-> 💬 _“Build with logic. Design with empathy. Deliver with heart.”_
+## 🧾 Certifications
+
+- AWS AI/ML Specialization – 2022  
+- MongoDB for SQL Pros – M100  
+- Programming Foundations: Web Security – LinkedIn  
+- JavaScript Algorithms – freeCodeCamp  
+- UI/UX Design – Coursera  
+- LinkedIn Skill Badges – HTML, CSS, JS, Node.js  
+
+---
+
+## 📬 Connect With Me
+
+📧 [Email Me](mailto:upretirajprabin@gmail.com)  
+🌐 [My Website](https://prabinrajupreti.com.np)  
+🐙 [My GitHub](https://github.com/PrabinUpreti)  
+💼 [LinkedIn Profile](https://linkedin.com/in/prabinrajupreti)  
+📺 [Demo Video](https://youtu.be/Lgh4POoUa2E)
+
+---
+
+> _“Build with logic. Design with empathy. Deliver with heart.”_  
+> — *Prabin Raj Upreti*

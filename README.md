@@ -68,7 +68,7 @@ I’m a full-stack developer dedicated to building **secure**, **scalable**, and
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrabinUpreti&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabinUpreti&layout=compact&theme=tokyonight)
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrabinUpreti&theme=tokyonight) -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=PrabinUpreti&theme=tokyonight)
 
 ---
 

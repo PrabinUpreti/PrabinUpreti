@@ -10,6 +10,9 @@
 [![Coding Time](https://wakatime.com/badge/user/0909edbf-7706-45ed-bf9e-d8a2f4a21f28.svg)](https://wakatime.com/@0909edbf-7706-45ed-bf9e-d8a2f4a21f28)
 
 
+![Visitors](https://komarev.com/ghpvc/?username=prabinupreti&style=flat-square&color=brightgreen)
+
+
 ---
 
 ## 🧠 About Me
